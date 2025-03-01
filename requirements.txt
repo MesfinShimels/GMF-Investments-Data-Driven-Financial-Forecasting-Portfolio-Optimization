@@ -1,0 +1,19 @@
+# Data Acquisition & Analysis
+yfinance>=0.2.18
+pandas>=1.5.3
+numpy>=1.23.5
+
+# Visualization
+matplotlib>=3.6.2
+seaborn>=0.12.2
+
+# Machine Learning & Statistical Modeling
+scikit-learn>=1.2.2
+statsmodels>=0.13.2
+pmdarima>=1.8.5
+
+# Notebooks
+jupyter>=1.0.0
+
+# Deep Learning (if using LSTM)
+tensorflow>=2.12.0
