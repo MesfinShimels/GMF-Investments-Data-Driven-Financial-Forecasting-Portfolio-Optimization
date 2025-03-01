@@ -98,5 +98,5 @@ Acknowledgements
 Special thanks to the GMF Investments team for the project opportunity.
 Contact
 For any questions or further information, please contact:
-[Your Name]
+Mesfin Shimelis
 Email: Mesfins973@gmail.com
